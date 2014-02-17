@@ -1,4 +1,4 @@
-# A logo design and branding specific worksample
+# A simple, tiled wallboard framework
 
 www.karstenrowe.com/projects/wallboard-framework
 
