@@ -1,6 +1,6 @@
 # A logo design and branding specific worksample
 
-www.karstenrowe.com/projects/logo-wallboard/
+www.karstenrowe.com/projects/tiled-wallboard-framework
 
 A basic one-page tiled wallboard framework, ideal for showcasing thumbnail artwork.
 
